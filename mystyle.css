@@ -1,0 +1,71 @@
+
+body
+{
+    background-color: green;
+    background-position:  top right;
+}
+
+
+h1 
+{
+    border-radius: 20px;
+    width: 100%;
+    Border: 7px solid;
+    text-decoration: underline;
+    background-color: royalblue;
+    height: 40px;
+    width: 1250;
+}
+
+.footer
+{
+    border-radius: 20px;
+    border: 7px solid;
+    width: 1200px;
+    height: 150px;
+    position: absolute;
+    bottom: 1px;
+    left: 80;
+    background-color: white;
+
+}
+
+.main
+{
+    background-color: red;
+    border-radius: 20px;
+    border: 3px solid;
+    border-left-width: 0;
+    height: 400px;
+    width: 1200px;
+    position: absolute;
+    left: 80;
+    word-break: break-all;
+    z-index: 1;
+}
+
+.sidebar
+{
+    
+    border-radius: 20px;
+    border: 5px solid;
+    height: 400px;
+    width: 175;
+    position:  absolute;
+    left: 1105;
+    background-color: purple;
+    z-index: 2;
+
+}
+
+.left_menu
+{
+    border-radius: 20px;
+    border: 3px solid;
+    height: 400px;
+    position:  absolute;
+    background-color: blueviolet;
+    z-index: 2;
+    text-align: center;
+}
+
